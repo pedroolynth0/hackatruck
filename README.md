@@ -1,7 +1,6 @@
 # HackaTruck MakerSpace Serviços Cognitivos
 
-<img src="./img/Alunos.jpg" alt="Exemplo de imagem" width="400" height="300">
-<img src="./img/Hacka Truck.jpg" alt="Exemplo de imagem" width="400" height="300">
+<img src="./img/Hacka Truck.jpg" alt="Exemplo de imagem" width="600" height="500">
 
 Este é o repositório de códigos desenvolvidos durante o curso do HackaTruck MakerSpace Serviços Cognitivos, um projeto de capacitação profissional em desenvolvimento iOS para aplicativos móveis com aplicação em Internet das Coisas (IoT), enfatizando a aplicação de conceitos e práticas de serviços cognitivos em nuvem.
 
