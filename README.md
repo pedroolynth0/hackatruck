@@ -1,6 +1,6 @@
 # HackaTruck MakerSpace Serviços Cognitivos
 
-<img src="./img/Hacka Truck.jpg" alt="Exemplo de imagem" width="800" height="400">
+<img src="./img/Hacka Truck.jpg" alt="Exemplo de imagem" width="1000" height="400">
 
 
 ## Sobre
